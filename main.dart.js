@@ -16350,7 +16350,7 @@ r.toString
 A.ee(r)
 q=a.i(0,"swipeEdge")
 q.toString
-return new A.Fu(s,r,B.Cv[A.bU(q)])},
+return new A.Fu(s,r,B.Cw[A.bU(q)])},
 xg:function xg(a,b){this.a=a
 this.b=b},
 Fu:function Fu(a,b,c){this.a=a
@@ -17785,7 +17785,7 @@ q=b.as
 if(a.as!==q)return q?-1:1
 return 0},
 as6(a,b){var s=A.T(b).h("Z<1,cy>")
-return A.arC(!0,A.V(new A.Z(b,new A.SR(),s),!0,s.h("at.E")),a,B.CN,!0,B.zq,null)},
+return A.arC(!0,A.V(new A.Z(b,new A.SR(),s),!0,s.h("at.E")),a,B.CO,!0,B.zq,null)},
 as4(a){a.bQ()
 a.aW(A.amX())},
 ael(a){var s=a.a,r=s instanceof A.m7?s:null
@@ -18298,7 +18298,7 @@ _.as=!0
 _.at=!1
 _.$ti=d},
 aeG(a,b){var s
-if(a.j(0,b))return new A.C3(B.CU)
+if(a.j(0,b))return new A.C3(B.CV)
 s=A.a([],t.fJ)
 A.bk("debugDidFindAncestor")
 a.k6(new A.VI(b,A.an(t.u),s))
@@ -18558,7 +18558,7 @@ t.Dn.a(a)
 s=J.ay(a)
 r=s.i(a,0)
 r.toString
-switch(B.Cc[A.bU(r)].a){case 0:s=s.fA(a,1)
+switch(B.Cd[A.bU(r)].a){case 0:s=s.fA(a,1)
 r=s[0]
 r.toString
 A.bU(r)
@@ -24220,7 +24220,7 @@ Pj(){var s=this.Q
 s===$&&A.b()
 return s},
 CV(a,b,c,d){var s,r,q,p
-if(a<0||b<0)return B.CL
+if(a<0||b<0)return B.CM
 s=this.a
 s===$&&A.b()
 s=s.a
@@ -24239,7 +24239,7 @@ l.push(new A.e7(n[0],n[1],n[2],n[3],B.h8[m]))}return l},
 di(a){var s,r=this.a
 r===$&&A.b()
 r=r.a.getGlyphPositionAtCoordinate(a.a,a.b)
-s=B.Cw[B.d.a_(r.affinity.value)]
+s=B.Cx[B.d.a_(r.affinity.value)]
 return new A.ae(B.d.a_(r.pos),s)},
 Pm(a){var s=this.a
 s===$&&A.b()
@@ -25788,7 +25788,7 @@ if(g.b){q=t.f
 f=q.a(q.a(B.bg.el(a0)).i(0,"data"))
 e=A.cd(f.i(0,"message"))
 if(e!=null&&e.length!==0){d=A.Eg(f,"assertiveness")
-g.a.KA(e,B.Ch[d==null?0:d])}}c.dw(a1,B.bg.bo(!0))
+g.a.KA(e,B.Ci[d==null?0:d])}}c.dw(a1,B.bg.bo(!0))
 return
 case"flutter/navigation":q=t.e8
 if(q.a(c.gbY().b.i(0,0))!=null)q.a(c.gbY().b.i(0,0)).B4(a0).bt(new A.Td(c,a1),t.P)
@@ -27477,7 +27477,7 @@ if(r.f!==B.k7){r.f=B.k7
 r.HF()}}return r.d.a.Qi(a)},
 HF(){var s,r
 for(s=this.w,r=0;r<s.length;++r)s[r].$1(this.f)},
-Qh(a){if(B.b.q(B.CA,a))return this.f===B.e2
+Qh(a){if(B.b.q(B.CB,a))return this.f===B.e2
 return!1}}
 A.To.prototype={
 $0(){return new A.eL(Date.now(),0,!1)},
@@ -32891,7 +32891,7 @@ if(s==null||s.length<a)s=this.c=new Uint8Array(a)
 return J.hn((s&&B.x).gbu(s),s.byteOffset,a)}}
 A.a69.prototype={
 C(a,b){this.rw(b,0,J.bw(b),!1)},
-ah(){this.rw(B.CK,0,0,!0)},
+ah(){this.rw(B.CL,0,0,!0)},
 c2(a,b,c,d){A.bX(b,c,a.length,null,null)
 this.rw(a,b,c,d)}}
 A.a5W.prototype={
@@ -37850,7 +37850,7 @@ V4(a){var s,r=this,q=null
 r.a.toString
 s=r.ga_5()
 r.a.toString
-return new A.xP(q,q,q,new A.a8J(),q,q,q,q,q,B.At,B.EW,q,q,q,B.CO,r.ga_c(),"Resilience",q,B.M_,B.cg,q,s,q,q,B.kq,!1,!1,q,q,q,new A.mf(r,t.bT))},
+return new A.xP(q,q,q,new A.a8J(),q,q,q,q,q,B.At,B.EW,q,q,q,B.CP,r.ga_c(),"Resilience",q,B.M_,B.cg,q,s,q,q,B.kq,!1,!1,q,q,q,new A.mf(r,t.bT))},
 O(a){var s,r=null,q=A.Dy(!1,!1,this.V4(a),r,r,r,r,!0,r,r,r,new A.a8K(),r,r)
 this.a.toString
 s=this.d
@@ -44984,7 +44984,7 @@ return new A.mg(r.a.dk(s.gfo()),r.b,r.c)},
 di(a){var s=this.b
 return s.a.c.di(a.a8(0,s.gfo()))},
 zX(){var s,r,q=this.b,p=q.gfo()
-if(!isFinite(p.a)||!isFinite(p.b))return B.CM
+if(!isFinite(p.a)||!isFinite(p.b))return B.CN
 s=q.f
 if(s==null){s=q.a.c.zX()
 q.f=s}if(p.j(0,B.i))r=s
@@ -52345,7 +52345,7 @@ break
 case 1:return A.N(q,r)}})
 return A.O($async$xS,r)},
 WZ(a,b){var s,r,q,p
-if(a===b)return B.CT
+if(a===b)return B.CU
 s=A.a([],t.QP)
 if(a==null)s.push(b)
 else{r=B.b.eQ(B.d1,a)
@@ -53731,7 +53731,7 @@ A.j6.prototype={}
 A.Fy.prototype={
 iS(a,b){var s,r,q,p,o,n=$.aa.af$.d.c
 if(n==null||n.e==null)return!1
-for(s=t.r,r=0;r<2;++r){q=B.Ca[r]
+for(s=t.r,r=0;r<2;++r){q=B.Cb[r]
 p=n.e
 p.toString
 o=A.adA(p,q,s)
@@ -57398,7 +57398,7 @@ A.dF.prototype={
 j(a,b){if(b==null)return!1
 if(J.J(b)!==A.r(this))return!1
 return b instanceof A.dF&&b.a===this.a&&b.d===this.d&&A.cw(null,null)},
-gu(a){return A.H(this.a,"MaterialIcons",null,this.d,A.bq(B.D_),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
+gu(a){return A.H(this.a,"MaterialIcons",null,this.d,A.bq(B.D0),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 k(a){return"IconData(U+"+B.c.qm(B.f.il(this.a,16).toUpperCase(),5,"0")+")"}}
 A.mm.prototype={
 bJ(a){return!this.w.j(0,a.w)},
@@ -58059,7 +58059,7 @@ g=s&&d
 b=s?d:b.ch
 if(b==null)b=B.hA
 s=s&&d
-f=new A.vi(a1,a,q,p,l,o,n,a0,g===!0,m,k,h,c,j,i,b,new A.oy(d),B.CR,s===!0)
+f=new A.vi(a1,a,q,p,l,o,n,a0,g===!0,m,k,h,c,j,i,b,new A.oy(d),B.CS,s===!0)
 if(!f.j(0,e.e))e.ao(new A.a90(e,f))},
 LK(){this.oQ()},
 LM(){if(this.d==null)this.oQ()},
@@ -58383,7 +58383,7 @@ k.a.toString
 q=t.tl
 p=r.a
 o=0
-for(;!1;++o){n=B.CP[o]
+for(;!1;++o){n=B.CQ[o]
 m=k.c
 m.toString
 l=new A.f6(n.A7(m),null,!0,B.iB,B.b0,new A.ln(new ($.PJ())(B.b0),q),B.b0)
@@ -58729,7 +58729,7 @@ O(a){var s,r,q=this,p=null,o=q.gYM(),n=A.oJ(a),m=q.bq$,l=q.d
 l===$&&A.b()
 s=q.a.ax
 if(l.gbm()==null){r=q.gEQ()
-r=J.kj(r.slice(0),A.T(r).c)}else r=B.CQ
+r=J.kj(r.slice(0),A.T(r).c)}else r=B.CR
 return new A.mj(p,new A.cB(new A.a_m(q,a),A.v1(B.aR,new A.Bs(!1,A.aeo(A.Dy(!0,p,A.a5e(m,new A.pg(r,s,l)),p,p,p,q.y,!1,p,p,p,p,p,!0),n),p),o,q.ga_w(),p,p,o),p,t.w3),p)}}
 A.a_l.prototype={
 $1(a){var s=this.a.c
@@ -63779,7 +63779,7 @@ r.ts()
 return s.aM()},
 l(){var s,r,q,p,o=this
 for(s=o.b,r=s.length,q=o.gxW(),p=0;p<s.length;s.length===r||(0,A.C)(s),++p)s[p].J(q)
-o.b=B.CS
+o.b=B.CT
 o.y=!1
 o.dD()},
 cC(a,b){return a.jv(b)},
@@ -64675,14 +64675,14 @@ s=(r.length===0?s+"no children":s+A.n(r))+")"
 return s.charCodeAt(0)==0?s:s}}
 A.eF.prototype={}
 A.xm.prototype={
-bG(){return new A.Nz(B.CW,A.cr(t.h),this,B.U)},
+bG(){return new A.Nz(B.CX,A.cr(t.h),this,B.U)},
 aB(a){var s,r,q,p,o=this,n=null,m=o.c,l=m.length
 m=l!==0?m[0].c.length:0
 s=a.ac(t.I).w
 r=A.Pp(a,n)
 q=A.a([],t.n)
 p=A.dY(n,n,n,t.S,t.PA)
-m=new A.wf(B.CV,m,l,p,o.e,s,o.r,r,o.w,n,q,new A.aT(),A.ad(t.T))
+m=new A.wf(B.CW,m,l,p,o.e,s,o.r,r,o.w,n,q,new A.aT(),A.ad(t.T))
 m.aD()
 l=A.a([],t.iG)
 B.b.sv(l,m.E*m.K)
@@ -64732,7 +64732,7 @@ o=new A.ez(q,new A.aaW(),A.T(r).h("ez<1>"))
 n=A.a([],t.lD)
 for(r=a.c,m=d.p3,l=t.PN,k=0;k<r.length;++k){j=r[k]
 i=o.p()
-h=i?q.gF().b:B.CX
+h=i?q.gF().b:B.CY
 i=j.c
 g=i.length
 f=A.a(new Array(g),l)
@@ -67094,7 +67094,7 @@ a6=b8.a1_(c5)
 for(c2=c5.length,o=t._,j=t.N,i=c6.b,a7=!1,a8=!1,a9=0;a9<c5.length;c5.length===c2||(0,A.C)(c5),++a9){b0=c5[a9]
 h=b0.b
 if(h!=null){a=A.t(j,j)
-b1=new A.aQ("input",B.CZ,a)
+b1=new A.aQ("input",B.D_,a)
 a.n(0,"type","checkbox")
 if(h===B.vA)a.n(0,"checked","true")
 a8=!0}else b1=b9
@@ -67533,7 +67533,7 @@ fn(a,b){var s=this,r=b.b[0].length,q=a.d,p=q+r,o=a.a,n=new A.bF(B.c.L(o,q,p))
 if(!s.c){a.f.push(new A.wZ(n,o.charCodeAt(q),r,!0,!1,s,p))
 a.r.push(n)
 return!0}o=s.e
-if(o==null)o=B.CY
+if(o==null)o=B.CZ
 a.f.push(A.arB(a,q,p,s.d,n,s,o))
 a.r.push(n)
 return!0},
@@ -68692,9 +68692,9 @@ l(){var s=this.d
 s===$&&A.b()
 s.l()
 this.TF()},
-O(a){var s=null,r=A.ou(s,B.F,s,B.wN,s,s,s,s),q=t.D,p=A.Hb(B.c2,A.a([A.jX(A.tk(B.D7,B.aw,B.ar,B.cf),s,s),A.af5(s,A.wr(B.D0,B.aw,B.ar,B.aV,s),s,s,s,0,s,s)],q),B.S,B.eO),o=this.d
+O(a){var s=null,r=A.ou(s,B.F,s,B.wN,s,s,s,s),q=t.D,p=A.Hb(B.c2,A.a([A.jX(A.tk(B.D7,B.aw,B.ar,B.cf),s,s),A.af5(s,A.wr(B.Ca,B.aw,B.ar,B.aV,s),s,s,s,0,s,s)],q),B.S,B.eO),o=this.d
 o===$&&A.b()
-return new A.ws(new A.rK(p,r,0,B.M,!0,new A.LT(s,s,1/0,56),s),A.tk(A.a([A.ou(new A.xk(B.Dc,o,B.n,B.n,B.j,s),B.F,B.Fa,s,s,s,s,s),A.aiI(new A.xl(o,B.Cn,s))],q),B.aw,B.ar,B.aV),s)}}
+return new A.ws(new A.rK(p,r,0,B.M,!0,new A.LT(s,s,1/0,56),s),A.tk(A.a([A.ou(new A.xk(B.Dc,o,B.n,B.n,B.j,s),B.F,B.Fa,s,s,s,s,s),A.aiI(new A.xl(o,B.Co,s))],q),B.aw,B.ar,B.aV),s)}}
 A.kv.prototype={
 O(a){var s=null,r=t.D
 r=A.a([A.jX(A.wr(A.a([A.aeA(this.e,B.n,s,28),B.eN,A.xo(this.c,s,s,B.vI,s)],r),B.aw,B.hs,B.aV,s),s,s),B.du],r)
@@ -68724,7 +68724,7 @@ return A.O($async$$3,r)},
 $S:450}
 A.DT.prototype={
 O(a){var s=null
-return A.afi(new A.ce(B.jR,A.tk(A.a([A.wr(B.Cd,B.aw,B.hs,B.aV,s),B.du,A.jX(A.ou(s,B.F,s,B.wL,180,s,s,300),s,s),B.du,A.aeR("**Resilience : R\xe9inventer l'accompagnement en oncologie**\n\nFond\xe9e en f\xe9vrier 2021, **Resilience** est une entreprise fran\xe7aise innovante sp\xe9cialis\xe9e dans la t\xe9l\xe9surveillance et l'accompagnement des patients atteints de cancer. Gr\xe2ce \xe0 des solutions technologiques avanc\xe9es, elle s'est donn\xe9e pour mission de r\xe9volutionner la prise en charge en oncologie, en mettant le patient au c\u0153ur de ses priorit\xe9s.\n\n---\n\n### **Ses visions et ses missions**\n**Resilience** se distingue par son engagement \xe0 am\xe9liorer la qualit\xe9 de vie des patients gr\xe2ce \xe0 :\n- Une approche centr\xe9e sur le patient, avec un suivi continu et personnalis\xe9.\n- L'utilisation d'algorithmes avanc\xe9s pour analyser les donn\xe9es de sant\xe9 en temps r\xe9el.\n- La cr\xe9ation d'outils innovants pour soutenir les professionnels de sant\xe9 dans leurs d\xe9cisions th\xe9rapeutiques.\n\n**Ses valeurs cl\xe9s** :\n- **Humilit\xe9** : Travailler avec les patients et professionnels de sant\xe9 avec respect et empathie.\n- **Innovation** : Pousser les limites technologiques pour transformer les soins.\n- **Collaboration** : Favoriser le travail d'\xe9quipe entre les experts m\xe9dicaux, technologiques et patients.\n\n---\n\n### **Les d\xe9buts**\nL'id\xe9e de Resilience est n\xe9e d'une volont\xe9 de **r\xe9duire les in\xe9galit\xe9s d'acc\xe8s aux soins en oncologie**. Les fondateurs, **C\xe9line Lazorthes** et **Jonathan Benhamou**, ont combin\xe9 leurs expertises respectives pour d\xe9velopper une solution novatrice qui :\n- Offre un suivi m\xe9dical continu et adapt\xe9 aux besoins des patients.\n- Am\xe9liore la capacit\xe9 des professionnels de sant\xe9 \xe0 prendre des d\xe9cisions \xe9clair\xe9es.\n\nD\xe8s ses d\xe9buts, Resilience s'est impos\xe9e comme un acteur majeur gr\xe2ce \xe0 sa vision claire et ses solutions technologiques uniques.\n\n---\n\n### **Partenariats strat\xe9giques**\nD\xe8s sa cr\xe9ation, Resilience a conclu un **partenariat exclusif avec l\u2019Institut Gustave Roussy**, le premier centre de lutte contre le cancer en Europe.\n\n---\n\n### **Les fondateurs**\n",s,A.EK(B.ih,s,s,B.q,s,s,s,s,B.q,s,s,s,s,B.ij,B.q,s,B.ik,B.q,s,B.il,B.q,s,s,B.q,s,s,B.q,s,s,B.q,s,s,s,s,s,s,B.q,B.ii,s,B.dx,s,s,s,s,s,s,s,s,s,B.dw,B.q,s,s,B.q)),B.du,A.jX(A.ou(s,B.F,s,B.wK,180,s,s,300),s,s),B.du,A.aeR("#### **C\xe9line Lazorthes**\n- **Parcours professionnel** :\n   - Fondatrice de [Leetchi](https://www.crunchbase.com/person/celine-lazorthes), une plateforme de cagnotte en ligne, et de [Mangopay](https://www.crunchbase.com/organization/mangopay), une solution de paiement innovante.\n   - Dipl\xf4m\xe9e de l'**EPITA**, elle est reconnue pour son expertise en cr\xe9ation de start-ups technologiques et en strat\xe9gie digitale.\n- **R\xf4le chez Resilience** : En tant que co-fondatrice et co-CEO, elle apporte une vision entrepreneuriale et une expertise en innovation.\n\n#### **Jonathan Benhamou**\n- **Parcours professionnel** :\n   - Co-fondateur de [PeopleDoc](https://www.linkedin.com/in/jonathan-benhamou-details/experience/), une solution SaaS de gestion des ressources humaines.\n   - Dipl\xf4m\xe9 de l'**HEC Paris**, il est sp\xe9cialis\xe9 dans le d\xe9veloppement strat\xe9gique et op\xe9rationnel de logiciels.\n- **R\xf4le chez Resilience** : En tant que co-fondateur et co-CEO, il joue un r\xf4le cl\xe9 dans la strat\xe9gie et le d\xe9ploiement des solutions technologiques de Resilience.\n\n**Vision commune des fondateurs :**\nC\xe9line et Jonathan ont uni leurs forces pour cr\xe9er une entreprise \xe0 l'intersection de la technologie, de la sant\xe9 et de l'innovation.\n\n---\n\n### **Conclusion**\nAvec une vision ambitieuse, des partenariats solides et une expertise technologique de pointe, Resilience s'est rapidement impos\xe9e comme un leader de l'innovation en oncologie num\xe9rique. L'entreprise continue de transformer la prise en charge des patients, pla\xe7ant la technologie au service de la sant\xe9 et du bien-\xeatre.\n",s,A.EK(B.ih,s,s,B.q,s,s,s,s,B.q,s,s,s,s,B.ij,B.q,s,B.ik,B.q,s,B.il,B.q,s,s,B.q,s,s,B.q,s,s,B.q,s,s,s,s,s,s,B.q,B.ii,s,B.dx,s,s,s,s,s,s,s,s,s,B.dw,B.q,s,s,B.q))],t.D),B.aN,B.ar,B.aV),s),s,B.ay,s,s,B.b_)}}
+return A.afi(new A.ce(B.jR,A.tk(A.a([A.wr(B.Ce,B.aw,B.hs,B.aV,s),B.du,A.jX(A.ou(s,B.F,s,B.wL,180,s,s,300),s,s),B.du,A.aeR("**Resilience : R\xe9inventer l'accompagnement en oncologie**\n\nFond\xe9e en f\xe9vrier 2021, **Resilience** est une entreprise fran\xe7aise innovante sp\xe9cialis\xe9e dans la t\xe9l\xe9surveillance et l'accompagnement des patients atteints de cancer. Gr\xe2ce \xe0 des solutions technologiques avanc\xe9es, elle s'est donn\xe9e pour mission de r\xe9volutionner la prise en charge en oncologie, en mettant le patient au c\u0153ur de ses priorit\xe9s.\n\n---\n\n### **Ses visions et ses missions**\n**Resilience** se distingue par son engagement \xe0 am\xe9liorer la qualit\xe9 de vie des patients gr\xe2ce \xe0 :\n- Une approche centr\xe9e sur le patient, avec un suivi continu et personnalis\xe9.\n- L'utilisation d'algorithmes avanc\xe9s pour analyser les donn\xe9es de sant\xe9 en temps r\xe9el.\n- La cr\xe9ation d'outils innovants pour soutenir les professionnels de sant\xe9 dans leurs d\xe9cisions th\xe9rapeutiques.\n\n**Ses valeurs cl\xe9s** :\n- **Humilit\xe9** : Travailler avec les patients et professionnels de sant\xe9 avec respect et empathie.\n- **Innovation** : Pousser les limites technologiques pour transformer les soins.\n- **Collaboration** : Favoriser le travail d'\xe9quipe entre les experts m\xe9dicaux, technologiques et patients.\n\n---\n\n### **Les d\xe9buts**\nL'id\xe9e de Resilience est n\xe9e d'une volont\xe9 de **r\xe9duire les in\xe9galit\xe9s d'acc\xe8s aux soins en oncologie**. Les fondateurs, **C\xe9line Lazorthes** et **Jonathan Benhamou**, ont combin\xe9 leurs expertises respectives pour d\xe9velopper une solution novatrice qui :\n- Offre un suivi m\xe9dical continu et adapt\xe9 aux besoins des patients.\n- Am\xe9liore la capacit\xe9 des professionnels de sant\xe9 \xe0 prendre des d\xe9cisions \xe9clair\xe9es.\n\nD\xe8s ses d\xe9buts, Resilience s'est impos\xe9e comme un acteur majeur gr\xe2ce \xe0 sa vision claire et ses solutions technologiques uniques.\n\n---\n\n### **Partenariats strat\xe9giques**\nD\xe8s sa cr\xe9ation, Resilience a conclu un **partenariat exclusif avec l\u2019Institut Gustave Roussy**, le premier centre de lutte contre le cancer en Europe.\n\n---\n\n### **Les fondateurs**\n",s,A.EK(B.ih,s,s,B.q,s,s,s,s,B.q,s,s,s,s,B.ij,B.q,s,B.ik,B.q,s,B.il,B.q,s,s,B.q,s,s,B.q,s,s,B.q,s,s,s,s,s,s,B.q,B.ii,s,B.dx,s,s,s,s,s,s,s,s,s,B.dw,B.q,s,s,B.q)),B.du,A.jX(A.ou(s,B.F,s,B.wK,180,s,s,300),s,s),B.du,A.aeR("#### **C\xe9line Lazorthes**\n- **Parcours professionnel** :\n   - Fondatrice de [Leetchi](https://www.crunchbase.com/person/celine-lazorthes), une plateforme de cagnotte en ligne, et de [Mangopay](https://www.crunchbase.com/organization/mangopay), une solution de paiement innovante.\n   - Dipl\xf4m\xe9e de l'**EPITA**, elle est reconnue pour son expertise en cr\xe9ation de start-ups technologiques et en strat\xe9gie digitale.\n- **R\xf4le chez Resilience** : En tant que co-fondatrice et co-CEO, elle apporte une vision entrepreneuriale et une expertise en innovation.\n\n#### **Jonathan Benhamou**\n- **Parcours professionnel** :\n   - Co-fondateur de [PeopleDoc](https://www.linkedin.com/in/jonathan-benhamou-details/experience/), une solution SaaS de gestion des ressources humaines.\n   - Dipl\xf4m\xe9 de l'**HEC Paris**, il est sp\xe9cialis\xe9 dans le d\xe9veloppement strat\xe9gique et op\xe9rationnel de logiciels.\n- **R\xf4le chez Resilience** : En tant que co-fondateur et co-CEO, il joue un r\xf4le cl\xe9 dans la strat\xe9gie et le d\xe9ploiement des solutions technologiques de Resilience.\n\n**Vision commune des fondateurs :**\nC\xe9line et Jonathan ont uni leurs forces pour cr\xe9er une entreprise \xe0 l'intersection de la technologie, de la sant\xe9 et de l'innovation.\n\n---\n\n### **Conclusion**\nAvec une vision ambitieuse, des partenariats solides et une expertise technologique de pointe, Resilience s'est rapidement impos\xe9e comme un leader de l'innovation en oncologie num\xe9rique. L'entreprise continue de transformer la prise en charge des patients, pla\xe7ant la technologie au service de la sant\xe9 et du bien-\xeatre.\n",s,A.EK(B.ih,s,s,B.q,s,s,s,s,B.q,s,s,s,s,B.ij,B.q,s,B.ik,B.q,s,B.il,B.q,s,s,B.q,s,s,B.q,s,s,B.q,s,s,s,s,s,s,B.q,B.ii,s,B.dx,s,s,s,s,s,s,s,s,s,B.dw,B.q,s,s,B.q))],t.D),B.aN,B.ar,B.aV),s),s,B.ay,s,s,B.b_)}}
 A.Eh.prototype={
 O(a){return B.F4}}
 A.Dt.prototype={
@@ -71260,7 +71260,7 @@ B.xW=new A.a5l()
 B.B=new A.HU()
 B.bD=new A.HW()
 B.cB=new A.HZ(0,0,0,0)
-B.CR=A.a(s([]),A.a2("u<aBv>"))
+B.CS=A.a(s([]),A.a2("u<aBv>"))
 B.QW=new A.a5t()
 B.as={}
 B.pz=new A.bc(B.as,[],t.li)
@@ -71684,21 +71684,27 @@ B.PU=new A.js(12,0.14)
 B.ko=A.a(s([B.PP,B.PS,B.PR,B.PT,B.PQ,B.PU]),A.a2("u<js>"))
 B.BT=A.a(s([4,9,14,19]),t.t)
 B.C2=A.a(s([65533]),t.t)
+B.AB=new A.dF(58214,!1)
+B.AI=new A.oO(B.AB,20,B.j,null,null)
+B.eN=new A.hX(8,null,null,null)
+B.vJ=new A.j(!0,B.j,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Oy=new A.ev("|",null,B.vJ,null,null,null,null,null)
+B.OC=new A.ev("FR",null,B.vJ,null,null,null,null,null)
+B.Ca=A.a(s([B.AI,B.eN,B.Oy,B.eN,B.OC]),t.D)
 B.wS=new A.o6()
 B.hL=new A.GD(1,"page")
 B.hM=new A.e2(B.H,B.hL)
-B.Ca=A.a(s([B.wS,B.hM]),A.a2("u<aA>"))
+B.Cb=A.a(s([B.wS,B.hM]),A.a2("u<aA>"))
 B.iD=new A.zs(0,"named")
 B.wf=new A.zs(1,"anonymous")
-B.Cc=A.a(s([B.iD,B.wf]),A.a2("u<zs>"))
-B.AB=new A.dF(58333,!1)
-B.AI=new A.oO(B.AB,28,B.n,null,null)
-B.eN=new A.hX(8,null,null,null)
+B.Cd=A.a(s([B.iD,B.wf]),A.a2("u<zs>"))
+B.AC=new A.dF(58333,!1)
+B.AJ=new A.oO(B.AC,28,B.n,null,null)
 B.aQ=new A.fi(6)
 B.vI=new A.j(!0,B.n,null,null,null,null,24,B.aQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Oz=new A.ev("Histoire",null,B.vI,null,null,null,null,null)
-B.Cd=A.a(s([B.AI,B.eN,B.Oz]),t.D)
-B.Ch=A.a(s([B.fi,B.fj]),A.a2("u<rM>"))
+B.Ce=A.a(s([B.AJ,B.eN,B.Oz]),t.D)
+B.Ci=A.a(s([B.fi,B.fj]),A.a2("u<rM>"))
 B.kp=A.a(s([0,0,26624,1023,65534,2047,65534,2047]),t.t)
 B.d1=A.a(s([B.bx,B.bf,B.dC,B.dD,B.fh]),t.QP)
 B.De=new A.kt("en","US")
@@ -71710,12 +71716,12 @@ B.Ac=new A.Dt(null)
 B.wj=new A.Bu(null)
 B.Ab=new A.Ds(null)
 B.Aq=new A.DI(null)
-B.Cn=A.a(s([B.As,B.Bg,B.Ac,B.wj,B.Ab,B.Aq]),t.D)
+B.Co=A.a(s([B.As,B.Bg,B.Ac,B.wj,B.Ab,B.Aq]),t.D)
 B.Jp=new A.xg(0,"left")
 B.Jq=new A.xg(1,"right")
-B.Cv=A.a(s([B.Jp,B.Jq]),A.a2("u<xg>"))
+B.Cw=A.a(s([B.Jp,B.Jq]),A.a2("u<xg>"))
 B.aa=new A.xp(0,"upstream")
-B.Cw=A.a(s([B.aa,B.l]),A.a2("u<xp>"))
+B.Cx=A.a(s([B.aa,B.l]),A.a2("u<xp>"))
 B.az=new A.nl(0,"rtl")
 B.a_=new A.nl(1,"ltr")
 B.h8=A.a(s([B.az,B.a_]),A.a2("u<nl>"))
@@ -71730,39 +71736,33 @@ B.An=new A.fi(7)
 B.k5=new A.fi(8)
 B.kt=A.a(s([B.h3,B.Al,B.Am,B.p,B.N,B.k4,B.aQ,B.An,B.k5]),A.a2("u<fi>"))
 B.ku=A.a(s(["text","multiline","number","phone","datetime","emailAddress","url","visiblePassword","name","address","none"]),t.s)
-B.CA=A.a(s(["click","scroll"]),t.s)
+B.CB=A.a(s(["click","scroll"]),t.s)
 B.h9=A.a(s([0,0,26498,1023,65534,34815,65534,18431]),t.t)
-B.CT=A.a(s([]),t.QP)
+B.CU=A.a(s([]),t.QP)
 B.kw=A.a(s([]),A.a2("u<aBe>"))
-B.CY=A.a(s([]),t.IF)
-B.CN=A.a(s([]),t.E)
-B.CX=A.a(s([]),t.lX)
-B.CU=A.a(s([]),t.fJ)
-B.CM=A.a(s([]),t.ER)
-B.CO=A.a(s([]),t.tc)
-B.CZ=A.a(s([]),t._)
+B.CZ=A.a(s([]),t.IF)
+B.CO=A.a(s([]),t.E)
+B.CY=A.a(s([]),t.lX)
+B.CV=A.a(s([]),t.fJ)
+B.CN=A.a(s([]),t.ER)
+B.CP=A.a(s([]),t.tc)
+B.D_=A.a(s([]),t._)
 B.ea=A.a(s([]),t.jl)
-B.CQ=A.a(s([]),t.fy)
-B.CP=A.a(s([]),A.a2("u<ajK<@>>"))
+B.CR=A.a(s([]),t.fy)
+B.CQ=A.a(s([]),A.a2("u<ajK<@>>"))
 B.hb=A.a(s([]),t.AO)
-B.CS=A.a(s([]),t.D1)
+B.CT=A.a(s([]),t.D1)
 B.hc=A.a(s([]),t.QF)
 B.R5=A.a(s([]),t.nk)
-B.CL=A.a(s([]),t.Lx)
+B.CM=A.a(s([]),t.Lx)
 B.R4=A.a(s([]),A.a2("u<HH>"))
 B.ky=A.a(s([]),t.D)
-B.CW=A.a(s([]),t.lD)
+B.CX=A.a(s([]),t.lD)
 B.kx=A.a(s([]),t.n)
-B.CK=A.a(s([]),t.t)
+B.CL=A.a(s([]),t.t)
 B.kv=A.a(s([]),t.ee)
-B.CV=A.a(s([]),t.iG)
-B.D_=A.a(s([]),t._m)
-B.AD=new A.dF(58608,!1)
-B.AJ=new A.oO(B.AD,20,B.j,null,null)
-B.vJ=new A.j(!0,B.j,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Oy=new A.ev("|",null,B.vJ,null,null,null,null,null)
-B.OC=new A.ev("FR",null,B.vJ,null,null,null,null,null)
-B.D0=A.a(s([B.AJ,B.eN,B.Oy,B.eN,B.OC]),t.D)
+B.CW=A.a(s([]),t.iG)
+B.D0=A.a(s([]),t._m)
 B.w_=new A.qt(0,"topLeft")
 B.w2=new A.qt(3,"bottomRight")
 B.PK=new A.jr(B.w_,B.w2)
@@ -71787,20 +71787,20 @@ B.y5=new A.oh(0,"auto")
 B.y6=new A.oh(1,"full")
 B.y7=new A.oh(2,"chromium")
 B.D3=A.a(s([B.y5,B.y6,B.y7]),A.a2("u<oh>"))
-B.Cx=A.a(s([137,80,78,71,13,10,26,10]),t.Z)
+B.Cy=A.a(s([137,80,78,71,13,10,26,10]),t.Z)
 B.AQ=new A.kd(0,"png")
 B.B1=new A.hC(B.AQ,!1,0,"png")
-B.AN=new A.iN(B.Cx,B.B1,0,"png")
-B.Ct=A.a(s([71,73,70,56,55,97]),t.Z)
-B.AO=new A.iN(B.Ct,B.e4,1,"gif87a")
-B.Cu=A.a(s([71,73,70,56,57,97]),t.Z)
-B.AM=new A.iN(B.Cu,B.e4,2,"gif89a")
+B.AN=new A.iN(B.Cy,B.B1,0,"png")
+B.Cu=A.a(s([71,73,70,56,55,97]),t.Z)
+B.AO=new A.iN(B.Cu,B.e4,1,"gif87a")
+B.Cv=A.a(s([71,73,70,56,57,97]),t.Z)
+B.AM=new A.iN(B.Cv,B.e4,2,"gif89a")
 B.Bt=A.a(s([255,216,255]),t.Z)
 B.AR=new A.kd(2,"jpeg")
 B.B_=new A.hC(B.AR,!1,3,"jpeg")
 B.AL=new A.iN(B.Bt,B.B_,3,"jpeg")
-B.Cg=A.a(s([82,73,70,70,null,null,null,null,87,69,66,80]),t.Z)
-B.AP=new A.iN(B.Cg,B.kf,4,"webp")
+B.Ch=A.a(s([82,73,70,70,null,null,null,null,87,69,66,80]),t.Z)
+B.AP=new A.iN(B.Ch,B.kf,4,"webp")
 B.C3=A.a(s([66,77]),t.Z)
 B.AS=new A.kd(4,"bmp")
 B.AX=new A.hC(B.AS,!1,6,"bmp")
@@ -71871,52 +71871,52 @@ B.cf=new A.EF(0,"min")
 B.aV=new A.EF(1,"max")
 B.kH=new A.d(42)
 B.pn=new A.d(8589935146)
-B.Ci=A.a(s([B.kH,null,null,B.pn]),t.L)
+B.Cj=A.a(s([B.kH,null,null,B.pn]),t.L)
 B.p9=new A.d(43)
 B.po=new A.d(8589935147)
-B.Cj=A.a(s([B.p9,null,null,B.po]),t.L)
+B.Ck=A.a(s([B.p9,null,null,B.po]),t.L)
 B.pa=new A.d(45)
 B.pp=new A.d(8589935149)
-B.Ck=A.a(s([B.pa,null,null,B.pp]),t.L)
+B.Cl=A.a(s([B.pa,null,null,B.pp]),t.L)
 B.pb=new A.d(46)
 B.bK=new A.d(8589935150)
-B.Cl=A.a(s([B.pb,null,null,B.bK]),t.L)
+B.Cm=A.a(s([B.pb,null,null,B.bK]),t.L)
 B.pc=new A.d(47)
 B.pq=new A.d(8589935151)
-B.Cm=A.a(s([B.pc,null,null,B.pq]),t.L)
+B.Cn=A.a(s([B.pc,null,null,B.pq]),t.L)
 B.pd=new A.d(48)
 B.ho=new A.d(8589935152)
-B.CC=A.a(s([B.pd,null,null,B.ho]),t.L)
+B.CD=A.a(s([B.pd,null,null,B.ho]),t.L)
 B.pe=new A.d(49)
 B.da=new A.d(8589935153)
-B.CD=A.a(s([B.pe,null,null,B.da]),t.L)
+B.CE=A.a(s([B.pe,null,null,B.da]),t.L)
 B.pf=new A.d(50)
 B.bL=new A.d(8589935154)
-B.CE=A.a(s([B.pf,null,null,B.bL]),t.L)
+B.CF=A.a(s([B.pf,null,null,B.bL]),t.L)
 B.pg=new A.d(51)
 B.db=new A.d(8589935155)
-B.CF=A.a(s([B.pg,null,null,B.db]),t.L)
+B.CG=A.a(s([B.pg,null,null,B.db]),t.L)
 B.ph=new A.d(52)
 B.bM=new A.d(8589935156)
-B.CG=A.a(s([B.ph,null,null,B.bM]),t.L)
+B.CH=A.a(s([B.ph,null,null,B.bM]),t.L)
 B.pi=new A.d(53)
 B.hp=new A.d(8589935157)
-B.CH=A.a(s([B.pi,null,null,B.hp]),t.L)
+B.CI=A.a(s([B.pi,null,null,B.hp]),t.L)
 B.pj=new A.d(54)
 B.bN=new A.d(8589935158)
-B.CI=A.a(s([B.pj,null,null,B.bN]),t.L)
+B.CJ=A.a(s([B.pj,null,null,B.bN]),t.L)
 B.pk=new A.d(55)
 B.dc=new A.d(8589935159)
-B.CJ=A.a(s([B.pk,null,null,B.dc]),t.L)
+B.CK=A.a(s([B.pk,null,null,B.dc]),t.L)
 B.pl=new A.d(56)
 B.bO=new A.d(8589935160)
-B.Cy=A.a(s([B.pl,null,null,B.bO]),t.L)
+B.Cz=A.a(s([B.pl,null,null,B.bO]),t.L)
 B.pm=new A.d(57)
 B.dd=new A.d(8589935161)
-B.Cz=A.a(s([B.pm,null,null,B.dd]),t.L)
+B.CA=A.a(s([B.pm,null,null,B.dd]),t.L)
 B.D8=A.a(s([B.d8,B.d8,B.ei,null]),t.L)
 B.ee=new A.d(4294967555)
-B.CB=A.a(s([B.ee,null,B.ee,null]),t.L)
+B.CC=A.a(s([B.ee,null,B.ee,null]),t.L)
 B.aT=new A.d(4294968065)
 B.C4=A.a(s([B.aT,null,null,B.bL]),t.L)
 B.aI=new A.d(4294968066)
@@ -71926,9 +71926,9 @@ B.C6=A.a(s([B.aJ,null,null,B.bN]),t.L)
 B.aU=new A.d(4294968068)
 B.BS=A.a(s([B.aU,null,null,B.bO]),t.L)
 B.hh=new A.d(4294968321)
-B.Ce=A.a(s([B.hh,null,null,B.hp]),t.L)
+B.Cf=A.a(s([B.hh,null,null,B.hp]),t.L)
 B.D9=A.a(s([B.d7,B.d7,B.eh,null]),t.L)
-B.Cb=A.a(s([B.a8,null,null,B.bK]),t.L)
+B.Cc=A.a(s([B.a8,null,null,B.bK]),t.L)
 B.bH=new A.d(4294968069)
 B.C7=A.a(s([B.bH,null,null,B.da]),t.L)
 B.ed=new A.d(4294967309)
@@ -71937,14 +71937,14 @@ B.C1=A.a(s([B.ed,null,null,B.hn]),t.L)
 B.bI=new A.d(4294968070)
 B.C8=A.a(s([B.bI,null,null,B.dc]),t.L)
 B.hi=new A.d(4294968327)
-B.Cf=A.a(s([B.hi,null,null,B.ho]),t.L)
+B.Cg=A.a(s([B.hi,null,null,B.ho]),t.L)
 B.Da=A.a(s([B.d9,B.d9,B.ej,null]),t.L)
 B.d5=new A.d(4294968071)
 B.C9=A.a(s([B.d5,null,null,B.db]),t.L)
 B.d6=new A.d(4294968072)
 B.Bv=A.a(s([B.d6,null,null,B.dd]),t.L)
 B.Db=A.a(s([B.bJ,B.bJ,B.ce,null]),t.L)
-B.EK=new A.cz(["*",B.Ci,"+",B.Cj,"-",B.Ck,".",B.Cl,"/",B.Cm,"0",B.CC,"1",B.CD,"2",B.CE,"3",B.CF,"4",B.CG,"5",B.CH,"6",B.CI,"7",B.CJ,"8",B.Cy,"9",B.Cz,"Alt",B.D8,"AltGraph",B.CB,"ArrowDown",B.C4,"ArrowLeft",B.C5,"ArrowRight",B.C6,"ArrowUp",B.BS,"Clear",B.Ce,"Control",B.D9,"Delete",B.Cb,"End",B.C7,"Enter",B.C1,"Home",B.C8,"Insert",B.Cf,"Meta",B.Da,"PageDown",B.C9,"PageUp",B.Bv,"Shift",B.Db],A.a2("cz<m,I<d?>>"))
+B.EK=new A.cz(["*",B.Cj,"+",B.Ck,"-",B.Cl,".",B.Cm,"/",B.Cn,"0",B.CD,"1",B.CE,"2",B.CF,"3",B.CG,"4",B.CH,"5",B.CI,"6",B.CJ,"7",B.CK,"8",B.Cz,"9",B.CA,"Alt",B.D8,"AltGraph",B.CC,"ArrowDown",B.C4,"ArrowLeft",B.C5,"ArrowRight",B.C6,"ArrowUp",B.BS,"Clear",B.Cf,"Control",B.D9,"Delete",B.Cc,"End",B.C7,"Enter",B.C1,"Home",B.C8,"Insert",B.Cg,"Meta",B.Da,"PageDown",B.C9,"PageUp",B.Bv,"Shift",B.Db],A.a2("cz<m,I<d?>>"))
 B.BJ=A.a(s([42,null,null,8589935146]),t.Z)
 B.BK=A.a(s([43,null,null,8589935147]),t.Z)
 B.BM=A.a(s([45,null,null,8589935149]),t.Z)
@@ -71960,24 +71960,24 @@ B.BY=A.a(s([54,null,null,8589935158]),t.Z)
 B.BZ=A.a(s([55,null,null,8589935159]),t.Z)
 B.C_=A.a(s([56,null,null,8589935160]),t.Z)
 B.C0=A.a(s([57,null,null,8589935161]),t.Z)
-B.Co=A.a(s([8589934852,8589934852,8589934853,null]),t.Z)
+B.Cp=A.a(s([8589934852,8589934852,8589934853,null]),t.Z)
 B.By=A.a(s([4294967555,null,4294967555,null]),t.Z)
 B.Bz=A.a(s([4294968065,null,null,8589935154]),t.Z)
 B.BA=A.a(s([4294968066,null,null,8589935156]),t.Z)
 B.BB=A.a(s([4294968067,null,null,8589935158]),t.Z)
 B.BC=A.a(s([4294968068,null,null,8589935160]),t.Z)
 B.BH=A.a(s([4294968321,null,null,8589935157]),t.Z)
-B.Cp=A.a(s([8589934848,8589934848,8589934849,null]),t.Z)
+B.Cq=A.a(s([8589934848,8589934848,8589934849,null]),t.Z)
 B.Bx=A.a(s([4294967423,null,null,8589935150]),t.Z)
 B.BD=A.a(s([4294968069,null,null,8589935153]),t.Z)
 B.Bw=A.a(s([4294967309,null,null,8589935117]),t.Z)
 B.BE=A.a(s([4294968070,null,null,8589935159]),t.Z)
 B.BI=A.a(s([4294968327,null,null,8589935152]),t.Z)
-B.Cq=A.a(s([8589934854,8589934854,8589934855,null]),t.Z)
+B.Cr=A.a(s([8589934854,8589934854,8589934855,null]),t.Z)
 B.BF=A.a(s([4294968071,null,null,8589935155]),t.Z)
 B.BG=A.a(s([4294968072,null,null,8589935161]),t.Z)
-B.Cr=A.a(s([8589934850,8589934850,8589934851,null]),t.Z)
-B.pt=new A.cz(["*",B.BJ,"+",B.BK,"-",B.BM,".",B.BN,"/",B.BO,"0",B.BP,"1",B.BQ,"2",B.BU,"3",B.BV,"4",B.BW,"5",B.BX,"6",B.BY,"7",B.BZ,"8",B.C_,"9",B.C0,"Alt",B.Co,"AltGraph",B.By,"ArrowDown",B.Bz,"ArrowLeft",B.BA,"ArrowRight",B.BB,"ArrowUp",B.BC,"Clear",B.BH,"Control",B.Cp,"Delete",B.Bx,"End",B.BD,"Enter",B.Bw,"Home",B.BE,"Insert",B.BI,"Meta",B.Cq,"PageDown",B.BF,"PageUp",B.BG,"Shift",B.Cr],A.a2("cz<m,I<k?>>"))
+B.Cs=A.a(s([8589934850,8589934850,8589934851,null]),t.Z)
+B.pt=new A.cz(["*",B.BJ,"+",B.BK,"-",B.BM,".",B.BN,"/",B.BO,"0",B.BP,"1",B.BQ,"2",B.BU,"3",B.BV,"4",B.BW,"5",B.BX,"6",B.BY,"7",B.BZ,"8",B.C_,"9",B.C0,"Alt",B.Cp,"AltGraph",B.By,"ArrowDown",B.Bz,"ArrowLeft",B.BA,"ArrowRight",B.BB,"ArrowUp",B.BC,"Clear",B.BH,"Control",B.Cq,"Delete",B.Bx,"End",B.BD,"Enter",B.Bw,"Home",B.BE,"Insert",B.BI,"Meta",B.Cr,"PageDown",B.BF,"PageUp",B.BG,"Shift",B.Cs],A.a2("cz<m,I<k?>>"))
 B.EL=new A.cz([0,"FontWeight.w100",1,"FontWeight.w200",2,"FontWeight.w300",3,"FontWeight.w400",4,"FontWeight.w500",5,"FontWeight.w600",6,"FontWeight.w700",7,"FontWeight.w800",8,"FontWeight.w900"],A.a2("cz<k,m>"))
 B.kG=new A.d(32)
 B.Dy=new A.d(33)
@@ -72720,8 +72720,8 @@ B.AE=new A.dF(59007,!0)
 B.F5=new A.kv("Futurs Projets","**Projets d'avenir pour resilience**\n\nResilience se positionne comme un acteur majeur de l\u2019innovation en t\xe9l\xe9surveillance m\xe9dicale et envisage des projets ambitieux pour les ann\xe9es \xe0 venir. Ces initiatives visent \xe0 transformer la prise en charge des patients et \xe0 \xe9tendre son impact \xe0 l\u2019\xe9chelle mondiale.\n\n---\n\n### **1. Expansion \xe0 d'autres pathologies**\nResilience souhaite \xe9largir son champ d\u2019action au-del\xe0 de l\u2019oncologie pour inclure d\u2019autres maladies chroniques, telles que :\n- **Diab\xe8te** : D\xe9veloppement de solutions pour suivre les niveaux de glucose et pr\xe9venir les complications.\n- **Maladies cardiovasculaires** : Surveillance des patients \xe0 haut risque et suivi post-chirurgical.\n- **Maladies respiratoires** : Suivi \xe0 domicile des patients atteints de pathologies comme l'asthme ou la BPCO.\n\n**Impact attendu :**\nCette diversification permettra d\u2019\xe9tendre les b\xe9n\xe9fices de la t\xe9l\xe9surveillance \xe0 un plus grand nombre de patients, am\xe9liorant leur qualit\xe9 de vie et r\xe9duisant les co\xfbts de sant\xe9 associ\xe9s.\n\n---\n\n### **2. Expansion internationale**\nApr\xe8s avoir consolid\xe9 sa position en France, Resilience vise une expansion dans des march\xe9s cl\xe9s \xe0 l\u2019international :\n- **Europe** : Focus sur la Belgique et l'Allemagne, des pays reconnus pour leur syst\xe8me de sant\xe9 avanc\xe9.\n- **Am\xe9rique du Nord** : Entr\xe9e sur des march\xe9s strat\xe9giques comme les \xc9tats-Unis et le Canada, o\xf9 l\u2019oncologie num\xe9rique est en forte croissance.\n\n**Impact attendu :**\nCette expansion renforcera la pr\xe9sence de Resilience sur la sc\xe8ne internationale et lui permettra de collaborer avec des partenaires m\xe9dicaux et technologiques de premier plan.\n\n---\n\n### **3. Int\xe9gration de l'intelligence artificielle**\nResilience investit dans l\u2019intelligence artificielle (IA) pour am\xe9liorer encore la pr\xe9cision et l\u2019efficacit\xe9 de ses solutions. Les projets incluent :\n- **Algorithmes pr\xe9dictifs** : Identifier les risques de complications ou de rechutes avant qu'ils ne se produisent.\n- **Personnalisation des soins** : Adapter les recommandations en fonction des besoins sp\xe9cifiques de chaque patient.\n- **Optimisation des processus m\xe9dicaux** : Automatiser certaines t\xe2ches pour all\xe9ger la charge de travail des professionnels de sant\xe9.\n\n**Impact attendu :**\nL\u2019IA permettra d\u2019offrir des soins encore plus personnalis\xe9s et d\u2019augmenter la r\xe9activit\xe9 des \xe9quipes m\xe9dicales face aux situations critiques.\n\n---\n\n### **4. D\xe9veloppement de nouveaux produits**\nResilience travaille sur une gamme de nouveaux produits pour enrichir son offre et r\xe9pondre aux besoins \xe9mergents des patients et des professionnels de sant\xe9 :\n- **Dispositifs connect\xe9s** : Surveillance en temps r\xe9el des signes vitaux comme la tension art\xe9rielle, le rythme cardiaque ou la saturation en oxyg\xe8ne.\n- **Outils de r\xe9alit\xe9 virtuelle** : Gestion de la douleur et am\xe9lioration du bien-\xeatre des patients gr\xe2ce \xe0 des exp\xe9riences immersives.\n- **Programmes de soutien psychologique en ligne** : Offrir un accompagnement adapt\xe9 pour les patients confront\xe9s aux d\xe9fis \xe9motionnels li\xe9s \xe0 leur maladie.\n\n**Impact attendu :**\nCes innovations renforceront l\u2019\xe9cosyst\xe8me de Resilience et permettront de proposer une approche holistique de la prise en charge des patients.\n\n---\n\n### **Conclusion**\nAvec ces projets, Resilience se fixe des objectifs ambitieux pour les ann\xe9es \xe0 venir. L\u2019entreprise s\u2019engage \xe0 \xe9largir son champ d\u2019action, \xe0 investir dans des technologies de pointe et \xe0 s\u2019implanter durablement sur les march\xe9s internationaux. Ces initiatives renforcent sa position de leader dans la t\xe9l\xe9surveillance m\xe9dicale et confirment son engagement envers l\u2019am\xe9lioration de la qualit\xe9 des soins.\n",B.AE,null)
 B.AF=new A.dF(984766,!1)
 B.F6=new A.kv("Aides","**Aides potentielles \xe0 la cr\xe9ation et au d\xe9veloppement de Resilience**\n\nResilience, en tant que startup innovante dans le domaine de la sant\xe9 num\xe9rique, aurait mobilis\xe9 divers dispositifs publics et fiscaux pour soutenir ses premi\xe8res \xe9tapes de d\xe9veloppement. Bien que les d\xe9tails exacts ne soient pas confirm\xe9s, il est probable que l\u2019entreprise ait explor\xe9 des opportunit\xe9s g\xe9n\xe9ralement disponibles pour les jeunes entreprises innovantes.\n\n---\n\n### **1. Aides publiques \xe0 l\u2019innovation**\n\n#### **Bourse French Tech**\n- La **Bourse French Tech**, propos\xe9e par **Bpifrance**, est souvent destin\xe9e aux startups en phase de cr\xe9ation.\n- Resilience aurait pu b\xe9n\xe9ficier de cette aide, offrant jusqu\u2019\xe0 **90 000 euros**, pour financer des activit\xe9s telles que :\n  - Le d\xe9veloppement des premiers prototypes.\n  - La validation du concept aupr\xe8s des professionnels de sant\xe9.\n  - Les \xe9tudes de faisabilit\xe9 technique et \xe9conomique.\n\n**Impact potentiel :**\nSi mobilis\xe9e, cette bourse aurait permis \xe0 Resilience de poser des bases solides pour ses solutions technologiques et de mieux se pr\xe9parer \xe0 l\u2019entr\xe9e sur le march\xe9.\n\n---\n\n#### **Statut Jeune Entreprise Innovante (JEI)**\n- Resilience pourrait correspondre aux crit\xe8res du **Statut Jeune Entreprise Innovante (JEI)**, permettant des exon\xe9rations fiscales et sociales sur les d\xe9penses de recherche et d\xe9veloppement.\n- Ce statut faciliterait :\n  - La r\xe9duction des co\xfbts li\xe9s \xe0 l\u2019innovation.\n  - L\u2019embauche de talents techniques et m\xe9dicaux pour renforcer les \xe9quipes.\n\n**Impact potentiel :**\nCes exon\xe9rations auraient pu permettre \xe0 Resilience de concentrer davantage de ressources sur le d\xe9veloppement continu de ses outils technologiques.\n\n---\n\n### **2. Aides fiscales pour l'innovation**\n\n#### **Cr\xe9dit d'Imp\xf4t Recherche (CIR)**\n- Le **Cr\xe9dit d\u2019Imp\xf4t Recherche (CIR)** est couramment utilis\xe9 par des entreprises innovantes pour r\xe9cup\xe9rer une partie de leurs d\xe9penses en recherche et d\xe9veloppement.\n- Resilience aurait pu s\u2019en servir pour financer :\n  - Le d\xe9veloppement d\u2019algorithmes avanc\xe9s pour analyser les donn\xe9es de sant\xe9.\n  - Les tests cliniques et les am\xe9liorations de ses solutions num\xe9riques.\n\n**Impact potentiel :**\nCe dispositif aurait permis de r\xe9duire les charges fiscales, lib\xe9rant ainsi des ressources pour intensifier les efforts d\u2019innovation.\n\n---\n\n#### **Cr\xe9dit d'Imp\xf4t Innovation (CII)**\n- Destin\xe9 aux PME, le **Cr\xe9dit d\u2019Imp\xf4t Innovation (CII)** soutient la cr\xe9ation de nouveaux produits ou services.\n- Resilience aurait pu mobiliser ce cr\xe9dit pour d\xe9velopper :\n  - Sa plateforme num\xe9rique de t\xe9l\xe9surveillance.\n  - Des fonctionnalit\xe9s innovantes pour son application mobile.\n\n**Impact potentiel :**\nSi utilis\xe9, le CII aurait favoris\xe9 la mise sur le march\xe9 rapide des solutions de Resilience et renforc\xe9 son positionnement comme acteur cl\xe9 de l\u2019innovation en sant\xe9 num\xe9rique.\n\n---\n\n### **Conclusion**\nBien que les d\xe9tails pr\xe9cis sur les aides re\xe7ues par Resilience ne soient pas confirm\xe9s, il est probable que l\u2019entreprise ait explor\xe9 les dispositifs couramment accessibles aux startups innovantes. Ces aides, si mobilis\xe9es, auraient jou\xe9 un r\xf4le cl\xe9 dans le d\xe9veloppement de ses technologies et son positionnement sur le march\xe9. Resilience continue d\u2019incarner un mod\xe8le de succ\xe8s dans l\u2019oncologie num\xe9rique, avec un engagement constant envers l\u2019innovation et la qualit\xe9.\n",B.AF,null)
-B.AC=new A.dF(58359,!1)
-B.F7=new A.kv("Financement","**Strat\xe9gie de financement de resilience**\n\nDepuis sa cr\xe9ation, Resilience a mobilis\xe9 des financements importants pour concr\xe9tiser ses ambitions et devenir un leader dans la t\xe9l\xe9surveillance m\xe9dicale. Ces lev\xe9es de fonds t\xe9moignent de la confiance des investisseurs dans le potentiel de l\u2019entreprise.\n\n---\n\n### **Phases de financement**\n\n#### **1. Financement d\u2019amor\xe7age (Mars 2021)**\nResilience a lev\xe9 **5 millions d\u2019euros** lors de son financement d\u2019amor\xe7age. Cette premi\xe8re phase a permis :\n- De lancer les activit\xe9s initiales.\n- De d\xe9velopper les premi\xe8res versions de son application et de sa plateforme de t\xe9l\xe9surveillance.\n- De poser les bases de partenariats strat\xe9giques, notamment avec l\u2019Institut Gustave Roussy.\n\n#### **2. S\xe9rie A (Janvier 2022)**\nEn phase de croissance, Resilience a lev\xe9 **40 millions d\u2019euros**. Ce financement significatif a marqu\xe9 une \xe9tape cruciale dans le d\xe9veloppement de l\u2019entreprise. Les fonds ont \xe9t\xe9 utilis\xe9s pour :\n- \xc9tendre les solutions technologiques de Resilience.\n- Accro\xeetre sa visibilit\xe9 sur le march\xe9 fran\xe7ais.\n- Renforcer son infrastructure et son \xe9quipe.\n\n#### **3. S\xe9rie B (2023)**\nAvec **25 millions de dollars** lev\xe9s, men\xe9s par **Picus Capital** et **Red River West**, Resilience s\u2019est concentr\xe9e sur son d\xe9veloppement international. Ce tour de table a permis de :\n- Pr\xe9parer l\u2019expansion en Belgique et en Allemagne.\n- Diversifier les solutions pour inclure d\u2019autres pathologies chroniques.\n\n---\n\n### **Utilisation des fonds lev\xe9s**\n\nLes capitaux lev\xe9s par Resilience ont \xe9t\xe9 strat\xe9giquement allou\xe9s pour maximiser leur impact sur les objectifs de l\u2019entreprise. Voici les principaux axes d\u2019investissement :\n\n1. **Expansion internationale**\n   - D\xe9ploiement des solutions Resilience en Europe, en commen\xe7ant par la Belgique et l'Allemagne.\n   - \xc9tablissement de collaborations avec des institutions m\xe9dicales internationales.\n\n2. **Diversification des offres**\n   - D\xe9veloppement de solutions adapt\xe9es \xe0 d\u2019autres pathologies, comme les maladies inflammatoires chroniques de l\u2019intestin.\n   - Conception de nouveaux outils technologiques pour r\xe9pondre \xe0 des besoins diversifi\xe9s.\n\n3. **Innovation et essais cliniques**\n   - Acc\xe9l\xe9ration des essais cliniques pour valider les solutions en conditions r\xe9elles.\n   - Renforcement des collaborations avec des laboratoires pharmaceutiques et des centres de recherche.\n\n4. **Recrutement et d\xe9veloppement organisationnel**\n   - Resilience pr\xe9voit de recruter entre **50 et 100 nouveaux collaborateurs** dans les 18 prochains mois, renfor\xe7ant ainsi ses \xe9quipes techniques, m\xe9dicales et commerciales.\n   - Structuration interne pour soutenir une croissance rapide et durable.\n\n---\n\n### **Impact des financements**\n\nGr\xe2ce \xe0 ces financements, Resilience a su :\n- D\xe9velopper une infrastructure robuste pour la t\xe9l\xe9surveillance m\xe9dicale.\n- S\u2019imposer comme un acteur cl\xe9 de l\u2019oncologie num\xe9rique en France.\n- Poser les bases pour devenir un leader europ\xe9en, voire mondial, dans la prise en charge des maladies chroniques gr\xe2ce \xe0 la technologie.\n\nLes fonds lev\xe9s ont permis \xe0 Resilience de transformer sa vision en r\xe9alit\xe9, tout en r\xe9pondant aux d\xe9fis croissants du secteur de la sant\xe9. L\u2019entreprise continue de mobiliser des ressources pour innover et \xe9tendre son impact \xe0 une \xe9chelle internationale.\n",B.AC,null)
+B.AD=new A.dF(58359,!1)
+B.F7=new A.kv("Financement","**Strat\xe9gie de financement de resilience**\n\nDepuis sa cr\xe9ation, Resilience a mobilis\xe9 des financements importants pour concr\xe9tiser ses ambitions et devenir un leader dans la t\xe9l\xe9surveillance m\xe9dicale. Ces lev\xe9es de fonds t\xe9moignent de la confiance des investisseurs dans le potentiel de l\u2019entreprise.\n\n---\n\n### **Phases de financement**\n\n#### **1. Financement d\u2019amor\xe7age (Mars 2021)**\nResilience a lev\xe9 **5 millions d\u2019euros** lors de son financement d\u2019amor\xe7age. Cette premi\xe8re phase a permis :\n- De lancer les activit\xe9s initiales.\n- De d\xe9velopper les premi\xe8res versions de son application et de sa plateforme de t\xe9l\xe9surveillance.\n- De poser les bases de partenariats strat\xe9giques, notamment avec l\u2019Institut Gustave Roussy.\n\n#### **2. S\xe9rie A (Janvier 2022)**\nEn phase de croissance, Resilience a lev\xe9 **40 millions d\u2019euros**. Ce financement significatif a marqu\xe9 une \xe9tape cruciale dans le d\xe9veloppement de l\u2019entreprise. Les fonds ont \xe9t\xe9 utilis\xe9s pour :\n- \xc9tendre les solutions technologiques de Resilience.\n- Accro\xeetre sa visibilit\xe9 sur le march\xe9 fran\xe7ais.\n- Renforcer son infrastructure et son \xe9quipe.\n\n#### **3. S\xe9rie B (2023)**\nAvec **25 millions de dollars** lev\xe9s, men\xe9s par **Picus Capital** et **Red River West**, Resilience s\u2019est concentr\xe9e sur son d\xe9veloppement international. Ce tour de table a permis de :\n- Pr\xe9parer l\u2019expansion en Belgique et en Allemagne.\n- Diversifier les solutions pour inclure d\u2019autres pathologies chroniques.\n\n---\n\n### **Utilisation des fonds lev\xe9s**\n\nLes capitaux lev\xe9s par Resilience ont \xe9t\xe9 strat\xe9giquement allou\xe9s pour maximiser leur impact sur les objectifs de l\u2019entreprise. Voici les principaux axes d\u2019investissement :\n\n1. **Expansion internationale**\n   - D\xe9ploiement des solutions Resilience en Europe, en commen\xe7ant par la Belgique et l'Allemagne.\n   - \xc9tablissement de collaborations avec des institutions m\xe9dicales internationales.\n\n2. **Diversification des offres**\n   - D\xe9veloppement de solutions adapt\xe9es \xe0 d\u2019autres pathologies, comme les maladies inflammatoires chroniques de l\u2019intestin.\n   - Conception de nouveaux outils technologiques pour r\xe9pondre \xe0 des besoins diversifi\xe9s.\n\n3. **Innovation et essais cliniques**\n   - Acc\xe9l\xe9ration des essais cliniques pour valider les solutions en conditions r\xe9elles.\n   - Renforcement des collaborations avec des laboratoires pharmaceutiques et des centres de recherche.\n\n4. **Recrutement et d\xe9veloppement organisationnel**\n   - Resilience pr\xe9voit de recruter entre **50 et 100 nouveaux collaborateurs** dans les 18 prochains mois, renfor\xe7ant ainsi ses \xe9quipes techniques, m\xe9dicales et commerciales.\n   - Structuration interne pour soutenir une croissance rapide et durable.\n\n---\n\n### **Impact des financements**\n\nGr\xe2ce \xe0 ces financements, Resilience a su :\n- D\xe9velopper une infrastructure robuste pour la t\xe9l\xe9surveillance m\xe9dicale.\n- S\u2019imposer comme un acteur cl\xe9 de l\u2019oncologie num\xe9rique en France.\n- Poser les bases pour devenir un leader europ\xe9en, voire mondial, dans la prise en charge des maladies chroniques gr\xe2ce \xe0 la technologie.\n\nLes fonds lev\xe9s ont permis \xe0 Resilience de transformer sa vision en r\xe9alit\xe9, tout en r\xe9pondant aux d\xe9fis croissants du secteur de la sant\xe9. L\u2019entreprise continue de mobiliser des ressources pour innover et \xe9tendre son impact \xe0 une \xe9chelle internationale.\n",B.AD,null)
 B.Rj=new A.a4Y(0,"system")
 B.F8=new A.va(null)
 B.F9=new A.vb(null,null,null,null,null,null,null,null)
@@ -73578,8 +73578,8 @@ B.PE=new A.y4(0,"checkbox")
 B.PF=new A.y4(1,"radio")
 B.PG=new A.y4(2,"toggle")
 B.yR=new A.D(0.01568627450980392,0,0,0,B.h)
-B.Cs=A.a(s([B.yR,B.M]),t.t_)
-B.PH=new A.hh(B.Cs)
+B.Ct=A.a(s([B.yR,B.M]),t.t_)
+B.PH=new A.hh(B.Ct)
 B.PI=new A.hh(null)
 B.cC=new A.JJ(0,"horizontal")
 B.cD=new A.JJ(1,"vertical")
